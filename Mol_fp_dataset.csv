@@ -1,7 +1,5 @@
 ,Supporting information
-,meting ,boiling ,dielectric ,Electron ,Ionization 
-Name,,,,,
-,point,point,constant,affinity,energy
+,Name ,melting point ,boiling point ,dielectric constant ,Electron affinity ,Ionization energy
 Water,0,100,78.36,0.39,9.27
 "1,2-Ethanediol",-12.6,197.5,37.7,0.63,7.05
 Formamide,2.5,210.5,109.5,0.91,7.89
